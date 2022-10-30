@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @opuseleven.
 - 👀 I’m a musician interested in software and web development.
-- 🌱 I’m currently learning web development with NextJS & Typescript.
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m available for hire.
 - 📫 You can reach me at opuseleven@protonmail.com
